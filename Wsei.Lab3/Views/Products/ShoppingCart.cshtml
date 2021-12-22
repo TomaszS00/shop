@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Wsei.Lab3.Entities.ProductEntity>
+
+
+<tbody>
+    @foreach (var item in Model)
+    {
+        @item.Name;
+        <br />
+        @item.Description;
+        <br />
+        @item.Price;
+        <br />
+    }
+
+    
+</tbody>

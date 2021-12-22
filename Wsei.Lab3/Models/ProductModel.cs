@@ -11,6 +11,8 @@ namespace Wsei.Lab3.Models
 
         public string Description { get; set; }
 
+        public double Price { get; set; }
+
         public bool IsVisible { get; set; }
     }
 }

@@ -370,3 +370,4 @@ D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3
 D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
 D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
 D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
+D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\ShoppingCart.cshtml.g.cs

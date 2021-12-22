@@ -64,5 +64,12 @@ namespace Wsei.Lab3.Controllers
             return View(products);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> ShoppingCart(string name)
+        {
+            var products = await _productService.GetAll(name);
+            return View(products);
+        }
+
     }
 }

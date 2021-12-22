@@ -14,6 +14,8 @@ namespace Wsei.Lab3.Entities
 
         public string Description { get; set; }
 
+        public double Price { get; set; }
+
         public bool IsVisible { get; set; }
 
         public IdentityUser Owner { get; set; }   
