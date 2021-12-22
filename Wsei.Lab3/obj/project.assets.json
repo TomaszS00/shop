@@ -6108,11 +6108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\wsei-21-22-lab3(18.12.21)\\Wsei.Lab3\\Wsei.Lab3.csproj",
+      "projectUniqueName": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\sklep\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
       "projectName": "Wsei.Lab3",
-      "projectPath": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\wsei-21-22-lab3(18.12.21)\\Wsei.Lab3\\Wsei.Lab3.csproj",
+      "projectPath": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\sklep\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
       "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
-      "outputPath": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\wsei-21-22-lab3(18.12.21)\\Wsei.Lab3\\obj\\",
+      "outputPath": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\sklep\\shop\\Wsei.Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
