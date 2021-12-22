@@ -32,8 +32,8 @@ namespace Wsei.Lab3
             services.AddControllersWithViews();
 
             services.AddDbContext<AppDbContext>(config =>
-                //config.UseSqlServer(Configuration.GetConnectionString("Application"))
-                config.UseInMemoryDatabase("app")
+                config.UseSqlServer(Configuration.GetConnectionString("Application"))
+                //config.UseInMemoryDatabase("app")
             ) ;
 
 
