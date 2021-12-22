@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 using Wsei.Lab3.Database;
 using Wsei.Lab3.Middleware;
 using Wsei.Lab3.Services;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Wsei.Lab3
 {
@@ -29,11 +32,16 @@ namespace Wsei.Lab3
             services.AddControllersWithViews();
 
             services.AddDbContext<AppDbContext>(config =>
-                config.UseSqlServer(Configuration.GetConnectionString("Application"))
-            );
+                //config.UseSqlServer(Configuration.GetConnectionString("Application"))
+                config.UseInMemoryDatabase("app")
+            ) ;
 
+
+            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
             services.AddTransient<IProductService, ProductService>();
             services.AddSingleton<IMetricsCollector, MetricsCollector>();
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,6 +61,7 @@ namespace Wsei.Lab3
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -60,6 +69,7 @@ namespace Wsei.Lab3
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }

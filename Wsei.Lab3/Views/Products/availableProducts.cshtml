@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Wsei.Lab3.Entities.ProductEntity>
+
+    <h2>List of products</h2>
+
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var i = 0;
+            string[] nameArray = new string[1000];
+            nameArray[i] = item.Name;
+        <tr>
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@nameArray[i]</h6>
+                    <p class="card-text">@item.Description</p>
+                    <a class="card-link" asp-area="" asp-controller="Products" asp-action="description">Description</a>
+                    <a class="card-link" class="card-link" asp-area="" asp-controller="Home" asp-action="Index">Dodaj do koszyka</a>
+                </div>
+            </div>
+        </tr>
+        i++;
+        }
+    </tbody>
+
+
+
+
+
