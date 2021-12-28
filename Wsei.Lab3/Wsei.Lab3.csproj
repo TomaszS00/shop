@@ -5,6 +5,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="App_Start\**" />
+    <Content Remove="App_Start\**" />
+    <EmbeddedResource Remove="App_Start\**" />
+    <None Remove="App_Start\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove=".babelrc" />
+    <None Remove="webpack.config.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include=".babelrc" />
+    <Content Include="blog.AspNetReact.csproj" />
+    <Content Include="webpack.config.js" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
