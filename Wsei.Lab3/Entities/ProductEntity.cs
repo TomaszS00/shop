@@ -18,6 +18,8 @@ namespace Wsei.Lab3.Entities
 
         public bool IsVisible { get; set; }
 
-        public IdentityUser Owner { get; set; }   
+        public IdentityUser Owner { get; set; }
+
+        public byte[] ProductImage { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YLDDCuhhHgP7I4cXHFZvD+YwIULWCj4dXa4uYvSAm2ien0W7b4Kv3fN6hhwaQ2u51n1KtDNiUNVZiV2QOlZYzQ==",
+  "dgSpecHash": "hR8LBg9SKKUjWH3IX6PtIvpZ3/dyFCyt2QAHUkPpvJ6qojGGZC+Y1pu6i8j74c3yhEyC+MJvd8Oxsfjd9C61Kw==",
   "success": true,
-  "projectFilePath": "D:\\Studia\\WSEI\\Semestr 3\\Programowanie w asp.net\\Ćwiczenia\\sklep\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
+  "projectFilePath": "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomasz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tomasz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",

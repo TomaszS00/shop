@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,5 +15,7 @@ namespace Wsei.Lab3.Models
         public double Price { get; set; }
 
         public bool IsVisible { get; set; }
+
+        public IFormFile ProductImage { get; set; }
     }
 }

@@ -37,6 +37,8 @@ namespace Wsei.Lab3.Controllers
             {
                 NameLength = product.Name.Length,
                 DescriptionLength = product.Description.Length,
+                Price = product.Price,
+                ProductImage = product.ProductImage
             };
 
             return View(viewModel);
