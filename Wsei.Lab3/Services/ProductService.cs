@@ -30,37 +30,39 @@ namespace Wsei.Lab3.Services
             //Console.WriteLine(product.Price);
             //Price = product.Price
 
+            /*
             using (var memoryStream = new MemoryStream())
             {
                 await product.ProductImage.CopyToAsync(memoryStream);
 
                 // Upload the file if less than 2 MB
-                
+
                 var file = new AppFile()
                 {
                     Content = memoryStream.ToArray()
                 };
 
-
+                
                 await _dbContext.SaveChangesAsync();
                
-                
-            }
 
-            var entity = new ProductEntity
+            }
+            */
+
+           var entity = new ProductEntity
             {
                 Name = product.Name,
                 Description = product.Description,
                 IsVisible = product.IsVisible,
                 Owner = currentUser,
                 Price = product.Price,
-                ProductImage = product.ProductImage
+                //ProductImage = product.ProductImage
             };
             await _dbContext.Products.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<ProductEntity>> GetAll(string name)
+        public async Task<IEnumerable<ProductEntity>> GetAll()
         {
             var currentUser = await _userManager.GetUserAsync(_httpContextAccessor.HttpContext.User);
 
@@ -68,10 +70,21 @@ namespace Wsei.Lab3.Services
 
             productsQuery = productsQuery.Where(x => x.Owner == currentUser);
 
-            if (!string.IsNullOrEmpty(name))
-            {
-                productsQuery = productsQuery.Where(x => x.Name.Contains(name));
-            }
+            
+
+            var products = await productsQuery.ToListAsync();
+            return products;
+        }
+
+        public async Task<IEnumerable<ProductEntity>> GetByID(int id)
+        {
+            var currentUser = await _userManager.GetUserAsync(_httpContextAccessor.HttpContext.User);
+
+            IQueryable<ProductEntity> productsQuery = _dbContext.Products;
+
+            productsQuery = productsQuery.Where(x => x.Id == id);
+
+
 
             var products = await productsQuery.ToListAsync();
             return products;

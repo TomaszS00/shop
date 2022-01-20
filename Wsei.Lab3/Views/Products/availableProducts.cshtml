@@ -15,8 +15,13 @@
                     <h5 class="card-title"></h5>
                     <h6 class="card-subtitle mb-2 text-muted">@nameArray[i]</h6>
                     <p class="card-text">@item.Description</p>
-                    <a class="card-link" asp-area="" asp-controller="Products" asp-action="description">Description</a>
-                    <a class="card-link" class="card-link" asp-area="" asp-controller="Products" asp-action="ShoppingCart">Dodaj do koszyka</a>
+                    <a class="card-link" asp-area="" asp-controller="Products" asp-action="description" asp-route-id="@item.Id">Description</a>
+                    @using (Html.BeginForm("AddToShoppingCart", "Products", FormMethod.Post))
+                    {
+                        <input hidden name="quantity" id="quantity" value="1" />
+                        <input hidden name="productid" id="productid" value="@item.Id" />
+                        <input type="submit" />
+                    }
                 </div>
             </div>
         </tr>

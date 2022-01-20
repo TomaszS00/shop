@@ -20,6 +20,6 @@ namespace Wsei.Lab3.Entities
 
         public IdentityUser Owner { get; set; }
 
-        public byte[] ProductImage { get; set; }
+       // public byte[] ProductImage { get; set; }
     }
 }

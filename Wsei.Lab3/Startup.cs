@@ -39,6 +39,7 @@ namespace Wsei.Lab3
 
             services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
             services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<IShoppingService, ShoppingServices>();
             services.AddSingleton<IMetricsCollector, MetricsCollector>();
 
             

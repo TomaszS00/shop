@@ -15,10 +15,12 @@ namespace Wsei.Lab3.Controllers
     public class ProductsController : Controller
     {
         private readonly IProductService _productService;
+        private readonly IShoppingService _shoppingServices;
 
-        public ProductsController(IProductService productService)
+        public ProductsController(IProductService productService, IShoppingService shoppingService)
         {
             _productService = productService;
+            _shoppingServices = shoppingService;
         }
 
         [Authorize]
@@ -38,7 +40,7 @@ namespace Wsei.Lab3.Controllers
                 NameLength = product.Name.Length,
                 DescriptionLength = product.Description.Length,
                 Price = product.Price,
-                ProductImage = product.ProductImage
+                //ProductImage = product.ProductImage
             };
 
             return View(viewModel);
@@ -46,31 +48,46 @@ namespace Wsei.Lab3.Controllers
 
         [HttpGet]
         [Authorize]
-        public async Task<IActionResult> List(string name)
+        public async Task<IActionResult> List()
         {
-            var products = await _productService.GetAll(name);
+            var products = await _productService.GetAll();
             return View(products);
         }
 
         [HttpGet]
-        public async Task<IActionResult> availableProducts(string name)
+        public async Task<IActionResult> availableProducts()
         {
-            var products = await _productService.GetAll(name);
+            var products = await _productService.GetAll();
             return View(products);
         }
 
         [HttpGet]
-        public async Task<IActionResult> description(string name)
+        public async Task<IActionResult> description(int id)
         {
-            var products = await _productService.GetAll(name);
+            var products = await _productService.GetByID(id);
             return View(products);
         }
 
         [HttpGet]
-        public async Task<IActionResult> ShoppingCart(string name)
+        [Authorize]
+        public async Task<IActionResult> ShoppingCart()
         {
-            var products = await _productService.GetAll(name);
+            var products = await _shoppingServices.GetAll();
             return View(products);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddToShoppingCart(int productid, int quantity)
+        {
+
+            ShoppingCartModel shoppingCart = new ShoppingCartModel
+            {
+                quantity = quantity,
+                productID = productid
+            };
+            await _shoppingServices.Add(shoppingCart);
+           
+            return View();
         }
 
     }

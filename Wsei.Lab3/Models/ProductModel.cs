@@ -16,6 +16,6 @@ namespace Wsei.Lab3.Models
 
         public bool IsVisible { get; set; }
 
-        public IFormFile ProductImage { get; set; }
+        //public IFormFile ProductImage { get; set; }
     }
 }
