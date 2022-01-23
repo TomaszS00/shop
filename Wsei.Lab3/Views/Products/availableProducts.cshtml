@@ -4,6 +4,7 @@
 
 
     <tbody>
+
         @foreach (var item in Model)
         {
             var i = 0;
@@ -20,14 +21,47 @@
                     {
                         <input hidden name="quantity" id="quantity" value="1" />
                         <input hidden name="productid" id="productid" value="@item.Id" />
-                        <input type="submit" />
+                        <button type="button" class="form"/>
+
                     }
                 </div>
             </div>
         </tr>
         i++;
         }
+
+
+
     </tbody>
+
+@section Scripts{ 
+
+<script>
+    (function () {
+        $(".form").click((e) => {
+            var target = $(e.currentTarget);
+            var quantity = target.siblings()[0].value;
+            var productid = target.siblings()[1].value;
+
+            $.ajax({
+                type: "POST",
+                contentType: "application/json",
+                url: "AddToShoppingCart",
+                data: JSON.stringify({ quantity: quantity, productid: productid }),
+                complete: function (data) {
+                    console.log(data)
+                }
+            });
+        })
+    })()
+ 
+
+    
+    
+
+</script>
+}
+ 
 
 
 

@@ -9,6 +9,7 @@ using Wsei.Lab3.Entities;
 using Wsei.Lab3.Models;
 using Wsei.Lab3.Services;
 using Microsoft.AspNetCore.Authorization;
+using Newtonsoft.Json;
 
 namespace Wsei.Lab3.Controllers
 {
@@ -72,22 +73,34 @@ namespace Wsei.Lab3.Controllers
         [Authorize]
         public async Task<IActionResult> ShoppingCart()
         {
-            var products = await _shoppingServices.GetAll();
+            IEnumerable<ShoppingCartEntity> shoppingCart = await _shoppingServices.GetAll();
+            List<ProductEntity> products = new List<ProductEntity> { };
+            foreach(ShoppingCartEntity v in shoppingCart)
+            {
+                int id = v.productID;
+                IEnumerable<ProductEntity> pid = await _productService.GetByID(id);
+                products.Add(pid.First<ProductEntity>());
+            }
             return View(products);
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddToShoppingCart(int productid, int quantity)
+        public async Task<IActionResult> AddToShoppingCart([FromBody] ShoppingCartModel request)
         {
+            Console.WriteLine(JsonConvert.SerializeObject(request));
+            Console.WriteLine(request.quantity);
+            //ShoppingCartModel r = JsonConvert.DeserializeObject<ShoppingCartModel>(request); 
+
+
 
             ShoppingCartModel shoppingCart = new ShoppingCartModel
             {
-                quantity = quantity,
-                productID = productid
+            quantity = request.quantity,
+            productID = request.productID
             };
             await _shoppingServices.Add(shoppingCart);
-           
-            return View();
+
+            return Json("XXX");
         }
 
     }

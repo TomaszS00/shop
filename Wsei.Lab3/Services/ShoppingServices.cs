@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,14 +32,17 @@ namespace Wsei.Lab3.Services
         var entity = new ShoppingCartEntity
             {
 
-                customerID = currentUser,
+                customer = currentUser,
                 quantity = shoppingCart.quantity,
                 productID = shoppingCart.productID
                 
                 //ProductImage = product.ProductImage
             };
+            Console.WriteLine(JsonConvert.SerializeObject(entity) ); 
+            Console.WriteLine(entity);
             await _dbContext.ShoppingCart.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
+
         }
 
         public async Task Update(int id, int quantity)
@@ -61,11 +65,11 @@ namespace Wsei.Lab3.Services
 
             IQueryable<ShoppingCartEntity> shoppingQuery = _dbContext.ShoppingCart;
 
-            shoppingQuery = shoppingQuery.Where(x => x.customerID == currentUser);
+            shoppingQuery = shoppingQuery.Where(x => x.customer == currentUser);
 
 
 
-            var shoppingQ = await shoppingQuery.ToListAsync();
+            List<ShoppingCartEntity> shoppingQ = await shoppingQuery.ToListAsync();
             return shoppingQ;
         }
 

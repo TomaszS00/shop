@@ -10,7 +10,7 @@ namespace Wsei.Lab3.Entities
     {
         public int Id { get; set; }
 
-        public IdentityUser customerID { get; set; }
+        public IdentityUser customer { get; set; }
 
         public int quantity { get; set; }
 

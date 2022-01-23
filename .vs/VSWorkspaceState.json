@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Wsei.Lab3",
+    "\\Wsei.Lab3\\Models",
+    "\\Wsei.Lab3\\Views",
+    "\\Wsei.Lab3\\Views\\Products"
   ],
-  "SelectedNode": "\\Wsei.Lab3.sln",
+  "SelectedNode": "\\Wsei.Lab3\\Models\\ProductStatsViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
