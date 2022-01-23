@@ -11,6 +11,8 @@ namespace Wsei.Lab3.Services
     {
         Task Add(ProductModel product);
 
-        Task<IEnumerable<ProductEntity>> GetAll(string name);
+        Task<IEnumerable<ProductEntity>> GetAll();
+
+        Task<IEnumerable<ProductEntity>> GetByID(int id);
     }
 }

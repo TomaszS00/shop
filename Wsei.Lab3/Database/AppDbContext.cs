@@ -12,6 +12,8 @@ namespace Wsei.Lab3.Database
     {
         public DbSet<ProductEntity> Products { get; set; }
 
+        public DbSet<ShoppingCartEntity> ShoppingCart { get; set; }
+
         public AppDbContext(DbContextOptions options)
             : base(options)
         {

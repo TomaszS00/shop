@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\SHOP - WSEI\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj": {}
+    "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\SHOP - WSEI\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj": {
+    "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\SHOP - WSEI\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
+        "projectUniqueName": "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj",
         "projectName": "Wsei.Lab3",
-        "projectPath": "C:\\Users\\user\\Desktop\\SHOP - WSEI\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\SHOP - WSEI\\shop\\Wsei.Lab3\\obj\\",
+        "projectPath": "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj",
+        "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomasz\\Source\\Repos\\shop1\\Wsei.Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
