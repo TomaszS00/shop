@@ -9,7 +9,7 @@
     <title>@ViewData["Title"] - Wsei.Lab3</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-   
+    <script src="~/bundles/modernizr"></script>
 </head>
 <body>
     <header>
@@ -57,8 +57,14 @@
             &copy; 2021 - Wsei.Lab3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/bundles/jquery"></script>
+      <script src="~/bundles/bootstrap"></script>
+    @RenderSection("scripts", required: false)
+    
+    <script src="~/../Scripts/dist/Home/react/bundle.js"></script>
+    <script id="__bs_script__" async src='http://localhost:5000/browser-sync/browser-sync-client.js?v=2.27.7'></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

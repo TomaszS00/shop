@@ -26,7 +26,7 @@ using Wsei.Lab3.Models;
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4b7846b843ef51b29b4a93281f7849667a9318f0", @"/Views/Home/Index.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"786a38d6c36587009d88a508deb7e805f89c4f7d", @"/Views/Home/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"94bfb06836c622f185995c3fafe161011084ab85", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
@@ -60,6 +60,7 @@ using Wsei.Lab3.Models;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
+            WriteLiteral("\r\n");
 #nullable restore
 #line 1 "C:\Users\Tomasz\source\repos\shop1\Wsei.Lab3\Views\Home\Index.cshtml"
   
@@ -105,7 +106,7 @@ using Wsei.Lab3.Models;
             }
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
-            WriteLiteral("\r\n");
+            WriteLiteral("\r\n\r\n<div id=\"app\"></div>\r\n");
         }
         #pragma warning restore 1998
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
