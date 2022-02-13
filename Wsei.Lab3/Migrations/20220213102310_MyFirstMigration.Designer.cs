@@ -10,8 +10,8 @@ using Wsei.Lab3.Database;
 namespace Wsei.Lab3.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20211222202431_newM")]
-    partial class newM
+    [Migration("20220213102310_MyFirstMigration")]
+    partial class MyFirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -250,6 +250,29 @@ namespace Wsei.Lab3.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("Wsei.Lab3.Entities.ShoppingCartEntity", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("customerId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("productID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("quantity")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("customerId");
+
+                    b.ToTable("ShoppingCart");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -308,6 +331,15 @@ namespace Wsei.Lab3.Migrations
                         .HasForeignKey("OwnerId");
 
                     b.Navigation("Owner");
+                });
+
+            modelBuilder.Entity("Wsei.Lab3.Entities.ShoppingCartEntity", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "customer")
+                        .WithMany()
+                        .HasForeignKey("customerId");
+
+                    b.Navigation("customer");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,570 +1,96 @@
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\wsei-21-22-lab3(18.12.21)\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
-D:\Studia\WSEI\Semestr 3\Programowanie w asp.net\Ćwiczenia\sklep\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\ShoppingCart.cshtml.g.cs
-<<<<<<< HEAD
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\package.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\ShoppingCart.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\packages.config
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Web.config
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Web.Debug.config
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\Web.Release.config
-C:\Users\user\Desktop\SHOP - WSEI\shop\Wsei.Lab3\bin\Debug\net5.0\package-lock.json
-=======
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\ShoppingCart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
-C:\Users\Tomasz\Source\Repos\shop1\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
->>>>>>> master
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\packages.config
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Web.config
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Web.Debug.config
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Web.Release.config
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.Development.json
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\appsettings.json
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.StaticWebAssets.xml
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.exe
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.deps.json
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.json
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.runtimeconfig.dev.json
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\ref\Wsei.Lab3.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Wsei.Lab3.Views.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Humanizer.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\git\shop\Wsei.Lab3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfoInputs.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.AssemblyInfo.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CoreCompileInputs.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.MvcApplicationPartsAssemblyInfo.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorAssemblyInfo.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.Manifest.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\staticwebassets\Wsei.Lab3.StaticWebAssets.xml
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\scopedcss\bundle\Wsei.Lab3.styles.css
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.input.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.TagHelpers.output.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorCoreGenerate.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Metrics\Index.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Add.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\availableProducts.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\description.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\List.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\ShoppingCart.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomLayout.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_MyCustomPartialView.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.RazorTargetAssemblyInfo.cs
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.Views.pdb
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.CopyComplete
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
