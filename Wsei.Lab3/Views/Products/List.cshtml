@@ -1,31 +1,65 @@
 ﻿@model IEnumerable<Wsei.Lab3.Entities.ProductEntity>
 
-<h2>List of products</h2>
+<h2>Twoje produkty</h2>
 
 <form method="GET" class="form-inline mb-2">
-    <input type="text" name="name" placeholder="Filter by name" class="form-control" />
-    <button type="submit" class="btn btn-primary ml-2">Search</button>
+    <input type="text" name="name" placeholder="Wyszukaj" class="form-control" />
+    <button type="submit" class="btn btn-primary ml-2">Szukaj</button>
 </form>
 
 <table class="table">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Description</th>
-            <th>Is visible?</th>
-            <th>Price</th>
+            <th style="min-width: 75px;" class="text-center">Nazwa</th>
+            <th>Opis</th>
+            <th style="min-width: 170px;" class="text-center">Czy jest widoczny?</th>
+            <th style="min-width: 61px;"  class="text-center">Cena</th>
+            <th style="min-width: 76px;"  class="text-center">Akcje</th>
         </tr>
     </thead>
 
     <tbody>
         @foreach (var item in Model)
         {
-        <tr>
-            <td>@item.Name</td>
-            <td>@item.Description</td>
-            <td>@(item.IsVisible ? "Yes" : "No")</td>
-            <td>@item.Price</td>
-        </tr>
+            <tr>
+                <td class="text-center">@item.Name</td>
+                <td>@item.Description</td>
+                <td class="text-center">@(item.IsVisible ? "Tak" : "Nie")</td>
+                <td class="text-center">@item.Price</td>
+                <td>
+                    <button type="button" class="remove-btn badge-danger" value="@item.Id">Usuń</button>
+                </td>
+            </tr>
+
         }
     </tbody>
 </table>
+
+<div class="d-flex justify-content-center">
+    <a class="badge-info font-weight-bolder d-flex align-items-center justify-content-center" style="border-radius:100%; width: 35px; height: 35px; text-align: center; font-size:18px;" asp-controller="Products" asp-action="Index">+</a>
+</div>
+@section Scripts{
+
+    <script>
+    (function () {
+        $(".remove-btn").click((e) => {
+            var target = $(e.currentTarget);
+               console.log(target.attr("value"))
+            $.ajax({
+                type: "POST",
+                contentType: "application/json",
+                url: "Delete",
+                data: JSON.stringify({ id: target.attr("value") }),
+                complete: function (data) {
+                    location.reload();
+                }
+            });
+        })
+    })()
+
+
+
+
+
+    </script>
+}

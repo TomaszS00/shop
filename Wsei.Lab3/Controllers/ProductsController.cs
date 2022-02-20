@@ -36,30 +36,29 @@ namespace Wsei.Lab3.Controllers
         {
             await _productService.Add(product);
 
-            var viewModel = new ProductStatsViewModel
-            {
-                NameLength = product.Name.Length,
-                DescriptionLength = product.Description.Length,
-                Price = product.Price,
-                //ProductImage = product.ProductImage
-            };
-
-            return View(viewModel);
+            return View(product);
         }
 
         [HttpGet]
         [Authorize]
-        public async Task<IActionResult> List()
+        public async Task<IActionResult> List(string name = "")
         {
-            var products = await _productService.GetAll();
-            return View(products);
+            var products = await _productService.GetAllOfUser();
+            if(name != null)
+            {
+                return View(products.Where(p => p.Name.ToLower().Contains(name.ToLower()) || p.Description.ToLower().Contains(name.ToLower())));
+            } 
+            else
+            {
+                return View(products);
+            }
         }
 
         [HttpGet]
         public async Task<IActionResult> availableProducts()
         {
             var products = await _productService.GetAll();
-            return View(products);
+            return View(products.Where(p => p.IsVisible));
         }
 
         [HttpGet]
@@ -69,30 +68,52 @@ namespace Wsei.Lab3.Controllers
             return View(products);
         }
 
+        public async Task<IActionResult> Delete([FromBody] ProductDeleteModel request)
+        {
+            await _productService.Delete(request.id);
+            return Json("XXX");
+        }
+
+        public async Task<IActionResult> DeleteFromCart([FromBody] ProductDeleteModel request)
+        {
+            await _shoppingServices.Remove(request.id);
+            return Json("XXX");
+        }
+
         [HttpGet]
         [Authorize]
         public async Task<IActionResult> ShoppingCart()
         {
             IEnumerable<ShoppingCartEntity> shoppingCart = await _shoppingServices.GetAll();
-            List<ProductEntity> products = new List<ProductEntity> { };
+            List<ShoppingCartViewModel> products = new List<ShoppingCartViewModel> { };
             foreach(ShoppingCartEntity v in shoppingCart)
             {
                 int id = v.productID;
                 IEnumerable<ProductEntity> pid = await _productService.GetByID(id);
-                products.Add(pid.First<ProductEntity>());
+                if(pid.Count() > 0)
+                {
+                    var x = new ShoppingCartViewModel { Id = v.Id, quantity = v.quantity, product = pid.ElementAt(0) };
+                    products.Add(x);
+                }
             }
             return View(products);
+        }
+
+        [HttpGet]
+        [Authorize]
+        public async Task<IActionResult> Order()
+        {
+            IEnumerable<ShoppingCartEntity> shoppingCart = await _shoppingServices.GetAll();
+            foreach (ShoppingCartEntity v in shoppingCart)
+            {
+                await _shoppingServices.Remove(v.Id);
+            }
+            return View();
         }
 
         [HttpPost]
         public async Task<IActionResult> AddToShoppingCart([FromBody] ShoppingCartModel request)
         {
-            Console.WriteLine(JsonConvert.SerializeObject(request));
-            Console.WriteLine(request.quantity);
-            //ShoppingCartModel r = JsonConvert.DeserializeObject<ShoppingCartModel>(request); 
-
-
-
             ShoppingCartModel shoppingCart = new ShoppingCartModel
             {
             quantity = request.quantity,

@@ -9,6 +9,8 @@
     <title>@ViewData["Title"] - Wsei.Lab3</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
 </head>
 <body>
     <header>
@@ -22,21 +24,18 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Strona główna</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="availableProducts">Available Products</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="availableProducts">Wszystkie produkty</a>
                         </li>
                         @if (SignInManager.IsSignedIn(User))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Products" asp-action="Index">Add new product</a>
+                                <a class="nav-link text-dark" asp-controller="Products" asp-action="List">Twoje produkty</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Products" asp-action="List">List of products</a>
+                            <li>
+                                <a class="nav-link text-dark" asp-controller="Products" asp-action="ShoppingCart">Koszyk</a>
                             </li>
                         }
                     </ul>
@@ -56,13 +55,10 @@
             &copy; 2021 - Wsei.Lab3 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
-        <script src="~/bundles/jquery"></script>
-      <script src="~/bundles/bootstrap"></script>
     @RenderSection("scripts", required: false)
 
     <script id="__bs_script__" async src='http://localhost:5000/browser-sync/browser-sync-client.js?v=2.27.7'></script>
-    <script src="~/lib/jquery/dist/jquery.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+
     <script src="~/js/site.js" asp-append-version="true"></script>
 </body>
 </html>

@@ -94,3 +94,5 @@ F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.dll
 F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\ref\Wsei.Lab3.dll
 F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.pdb
 F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.genruntimeconfig.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Wsei.Lab3.csproj.AssemblyReference.cache
+F:\git\shop\Wsei.Lab3\obj\Debug\net5.0\Razor\Views\Products\Order.cshtml.g.cs

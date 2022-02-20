@@ -1,16 +1,52 @@
-﻿@model IEnumerable<Wsei.Lab3.Entities.ProductEntity>
+﻿@model IEnumerable<Wsei.Lab3.Models.ShoppingCartViewModel>
 
+<h2>Koszyk</h2>
 
-<tbody>
-    @foreach (var item in Model)
-    {
-        @item.Name;
-        <br />
-        @item.Description;
-        <br />
-        @item.Price;
-        <br />
-    }
+<table class="table">
+    <thead>
+        <tr>
+            <th style="min-width: 75px;" class="text-center">Nazwa</th>
+            <th>Opis</th>
+            <th style="min-width: 170px;" class="text-center">Cena</th>
+            <th style="min-width: 76px;" class="text-center">Akcje</th>
+        </tr>
+    </thead>
 
-    
-</tbody>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-center">@item.product.Name</td>
+                <td>@item.product.Description</td>
+                <td class="text-center">@item.product.Price</td>
+                <td>
+                    <button type="button" class="remove-btn badge-danger" value="@item.Id">Usuń</button>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-center">
+    <a class="btn btn-info" style="text-align: center; font-size:18px;" asp-controller="Products" asp-action="Order">Zamów</a>
+</div>
+@section Scripts{
+
+    <script>
+    (function () {
+        $(".remove-btn").click((e) => {
+            var target = $(e.currentTarget);
+            $.ajax({
+                type: "POST",
+                contentType: "application/json",
+                url: "DeleteFromCart",
+                data: JSON.stringify({ id: target.attr("value") }),
+                complete: function (data) {
+                    location.reload();
+                }
+            });
+        })
+    })()
+    </script>
+}
