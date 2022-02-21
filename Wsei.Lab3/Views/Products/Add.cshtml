@@ -1,8 +1,12 @@
-﻿@model ProductStatsViewModel
+﻿@model ProductModel
 
-<h1>Product added successfully</h1>
+<h1>Dodano produkt!</h1>
 
-<div>Name length: @Model.NameLength</div>
-<div>Description length: @Model.DescriptionLength</div>
-<div>Price @Model.Price</div>
+<div><b>Nazwa:</b>&nbsp;@Model.Name</div>
+<div><b>Cena:</b>&nbsp;@Model.Price</div>
+
+<div><b>Opis: </b></div>
+<div>
+    @Model.Description
+</div>
 

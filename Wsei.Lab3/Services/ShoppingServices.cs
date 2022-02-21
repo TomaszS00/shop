@@ -38,8 +38,7 @@ namespace Wsei.Lab3.Services
                 
                 //ProductImage = product.ProductImage
             };
-            Console.WriteLine(JsonConvert.SerializeObject(entity) ); 
-            Console.WriteLine(entity);
+
             await _dbContext.ShoppingCart.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
 
@@ -54,8 +53,11 @@ namespace Wsei.Lab3.Services
 
         public async Task Remove(int id)
         {
-            var x = await _dbContext.ShoppingCart.FindAsync(id);
-            _dbContext.ShoppingCart.Remove(x);
+            var toDelete = _dbContext.ShoppingCart.First(x => x.Id == id);
+            if (toDelete != null)
+            {
+                _dbContext.ShoppingCart.Remove(toDelete);
+            }
             await _dbContext.SaveChangesAsync();
         }
 

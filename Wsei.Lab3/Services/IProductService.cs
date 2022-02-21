@@ -12,6 +12,11 @@ namespace Wsei.Lab3.Services
         Task Add(ProductModel product);
 
         Task<IEnumerable<ProductEntity>> GetAll();
+        Task<IEnumerable<ProductEntity>> GetAllOfUser();
+
+        Task Delete(int id);
+
+        Task DeleteFromCart(int id);
 
         Task<IEnumerable<ProductEntity>> GetByID(int id);
     }

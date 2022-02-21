@@ -1,29 +1,30 @@
 ﻿@model ProductModel
 
-<h1>Add new Product form</h1>
+<h1>Dodaj nowy produkt</h1>
 
-<alert color="success">This is my new alert</alert>
 
 <form method="POST" asp-action="Add">
     <div class="form-group">
-        <label asp-for="Name">Item name</label>
+        <label asp-for="Name">Nazwa</label>
         <input asp-for="Name" class="form-control" />
     </div>
 
     <div class="form-group">
-        <label asp-for="Description">Description</label>
+        <label asp-for="Description">Opis</label>
         <input asp-for="Description" class="form-control" />
     </div>
+    <div class="d-flex">
+        <div class="form-group w-50 mr-3">
+            <label asp-for="Price">Cena</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
 
-    <div class="form-group">
-        <label asp-for="Price">What is price of the item?</label>
-        <input asp-for="Price" class="form-control" />
+        <div class="form-check w-50 ml-3">
+            <input asp-for="IsVisible" class="form-check-input" />
+            <label asp-for="IsVisible" class="form-check-label">Czy ma być widoczny?</label>
+        </div>
     </div>
-
-    <div class="form-check">
-        <input asp-for="IsVisible" class="form-check-input" />
-        <label asp-for="IsVisible" class="form-check-label">Item visible?</label>
-    </div>
+    
 
     <!--
     <div class="form-check">
@@ -33,6 +34,6 @@
         -->
 
     <div class="form-group">
-        <input type="submit" value="Add new item" />
+        <input type="submit" value="Dodaj nowy produkt" />
     </div>
 </form>

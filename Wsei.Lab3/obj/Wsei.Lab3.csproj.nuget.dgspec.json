@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomasz\\source\\repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj": {}
+    "F:\\git\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomasz\\source\\repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj": {
+    "F:\\git\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomasz\\source\\repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj",
+        "projectUniqueName": "F:\\git\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
         "projectName": "Wsei.Lab3",
-        "projectPath": "C:\\Users\\Tomasz\\source\\repos\\shop1\\Wsei.Lab3\\Wsei.Lab3.csproj",
-        "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomasz\\source\\repos\\shop1\\Wsei.Lab3\\obj\\",
+        "projectPath": "F:\\git\\shop\\Wsei.Lab3\\Wsei.Lab3.csproj",
+        "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
+        "outputPath": "F:\\git\\shop\\Wsei.Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\patry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,31 +40,31 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.6, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.6, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.6, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.11, )"
             },
-            "Microsoft.EntityFrameworkCore.InMemory": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[5.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

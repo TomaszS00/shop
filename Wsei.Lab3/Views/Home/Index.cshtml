@@ -1,4 +1,6 @@
-﻿
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+
 @{
     ViewBag.Title = "Home Page";
 }
@@ -7,9 +9,28 @@
     ViewData["Title"] = "Home Page";
 }
 
-<form method="post">
-    <button class="btn btn-danger" type="submit">Push me</button>
-    <button class="nav-link text-dark" asp-controller="Products" asp-action="Index">Go to products</button>
-</form>
+<h1>
+    Witaj w naszym sklepie
+</h1>
 
-<div id="app"></div>
+@if (SignInManager.IsSignedIn(User))
+{
+    <div>Nowe funkcje dla zalogowanych użytkowników</div>
+    <div>
+        <a class="" asp-controller="Products" asp-action="List">Twoje produkty</a>
+    </div>
+    <div>
+        <a class="" asp-controller="Products" asp-action="ShoppingCart">Koszyk</a>
+    </div>
+}
+else
+{
+    <h5>
+        Aby w pełni wykorzystać nasz sklep, zaloguj się na swoje konto
+    </h5>
+    <h5>
+        Jeśli jeszcze nie masz konta, zarejestruj się i zdobądź dostęp do zakupu produktów oraz nawet tworzenia własnych.
+    </h5>
+}
+
+

@@ -27,27 +27,6 @@ namespace Wsei.Lab3.Services
         public async Task Add(ProductModel product)
         {
             var currentUser = await _userManager.GetUserAsync(_httpContextAccessor.HttpContext.User);
-            //Console.WriteLine(product.Price);
-            //Price = product.Price
-
-            /*
-            using (var memoryStream = new MemoryStream())
-            {
-                await product.ProductImage.CopyToAsync(memoryStream);
-
-                // Upload the file if less than 2 MB
-
-                var file = new AppFile()
-                {
-                    Content = memoryStream.ToArray()
-                };
-
-                
-                await _dbContext.SaveChangesAsync();
-               
-
-            }
-            */
 
            var entity = new ProductEntity
             {
@@ -64,16 +43,36 @@ namespace Wsei.Lab3.Services
 
         public async Task<IEnumerable<ProductEntity>> GetAll()
         {
+            IQueryable<ProductEntity> productsQuery = _dbContext.Products;
+            var products = await productsQuery.ToListAsync();
+            return products;
+        }
+
+        public async Task<IEnumerable<ProductEntity>> GetAllOfUser()
+        {
             var currentUser = await _userManager.GetUserAsync(_httpContextAccessor.HttpContext.User);
 
             IQueryable<ProductEntity> productsQuery = _dbContext.Products;
 
             productsQuery = productsQuery.Where(x => x.Owner == currentUser);
 
-            
-
             var products = await productsQuery.ToListAsync();
             return products;
+        }
+
+        public async Task Delete(int id)
+        {
+            var toDelete = _dbContext.Products.First(x => x.Id == id);
+            if (toDelete != null)
+            {
+                _dbContext.Products.Remove(toDelete);
+            }
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task DeleteFromCart(int id)
+        {
+            return;
         }
 
         public async Task<IEnumerable<ProductEntity>> GetByID(int id)
@@ -83,8 +82,6 @@ namespace Wsei.Lab3.Services
             IQueryable<ProductEntity> productsQuery = _dbContext.Products;
 
             productsQuery = productsQuery.Where(x => x.Id == id);
-
-
 
             var products = await productsQuery.ToListAsync();
             return products;
